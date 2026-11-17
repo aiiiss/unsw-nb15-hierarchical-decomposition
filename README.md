@@ -136,8 +136,6 @@ Eksperimen ini mendampingi pipeline stacking 10 kelas (XGBoost cost-sensitive + 
 - Sarıkaya, A. & Kılıç, B. G. (2020). *Hierarchical Classification for IDS.* (sebagaimana dirujuk pada notebook)
 - Zoghi, Z. & Serpen, G. (2023, 2024). Analisis tumpang tindih kelas pada UNSW-NB15. (sebagaimana dirujuk pada notebook)
 
-> Lengkapi detail sitasi (judul, venue, DOI) dari naskah skripsi sebelum dipublikasikan.
-
 ## Lisensi
 
 Kode dirilis di bawah lisensi MIT (lihat [`LICENSE`](LICENSE)). Dataset UNSW-NB15 **tidak** disertakan dan tunduk pada ketentuan penyedia aslinya.
